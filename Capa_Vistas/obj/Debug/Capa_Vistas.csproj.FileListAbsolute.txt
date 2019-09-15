@@ -1,0 +1,16 @@
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Vistas\bin\Debug\Capa_Vistas.exe.config
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Vistas\bin\Debug\Capa_Vistas.exe
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Vistas\bin\Debug\Capa_Vistas.pdb
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Vistas\bin\Debug\Capa_Controlador.dll
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Vistas\bin\Debug\Capa_Datos.dll
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Vistas\bin\Debug\System.Data.SQLite.dll
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Vistas\bin\Debug\Capa_Controlador.pdb
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Vistas\bin\Debug\Capa_Datos.pdb
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Vistas\obj\Debug\Capa_Vistas.csprojAssemblyReference.cache
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Vistas\obj\Debug\Capa_Vistas.Properties.Resources.resources
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Vistas\obj\Debug\Capa_Vistas.csproj.GenerateResource.cache
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Vistas\obj\Debug\Capa_Vistas.csproj.CoreCompileInputs.cache
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Vistas\obj\Debug\Capa_Vistas.csproj.CopyComplete
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Vistas\obj\Debug\Capa_Vistas.exe
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Vistas\obj\Debug\Capa_Vistas.pdb
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Vistas\obj\Debug\Capa_Vistas.Form_Prueba.resources

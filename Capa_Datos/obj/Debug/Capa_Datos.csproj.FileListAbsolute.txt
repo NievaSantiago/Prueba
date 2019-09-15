@@ -1,0 +1,7 @@
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Datos\obj\Debug\Capa_Datos.csproj.CopyComplete
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Datos\obj\Debug\Capa_Datos.pdb

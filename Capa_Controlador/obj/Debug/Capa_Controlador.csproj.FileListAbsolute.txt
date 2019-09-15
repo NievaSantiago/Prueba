@@ -1,0 +1,6 @@
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Controlador\bin\Debug\Capa_Controlador.dll
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Controlador\bin\Debug\Capa_Controlador.pdb
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Controlador\obj\Debug\Capa_Controlador.csprojAssemblyReference.cache
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Controlador\obj\Debug\Capa_Controlador.csproj.CoreCompileInputs.cache
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Controlador\obj\Debug\Capa_Controlador.dll
+C:\Users\nieva\Desktop\Sistema_Kiosco\Capa_Controlador\obj\Debug\Capa_Controlador.pdb
